@@ -1,8 +1,73 @@
 ﻿body {
-    background-color:black;
+    font-family: Verdana,sans-serif;
+    background-color: #B6E2DE;
 }
+
 h1 {
-    color:white;
-   text-align:center;
+    color:rebeccapurple;
+    text-align: center;
+}
+
+h2{
+    color:#506BE2
+}
+
+#right {
+    word-spacing:2px;
+   
+   
+
+}
+
+#contacts {
+    background-color: #9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+    float: right;
+    width: 550px;
+    height: 200px;
+    padding-right: 20px;
+    position:static;
+    color:#3E54E2;
+    
+}
+#name{
+    background-color:#9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+  position:static;
+    color:#3E54E2;
+    
+}
+
+#education{
+    white-space:pre;
+    line-height:4px;
+    color:#3E54E2;
+    background-color:  #9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+}
+#language{
+    background-color:#9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+    color:#3E54E2;
+}
+#skills{
+    background-color:#9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+    color:#3E54E2;
+}
+ul{
+    background-color:#9BCDE2;
+    border: 10px solid #9BCDE2;
+    border-radius: 10px;
+    color:#3E54E2;
+}
+div:hover{
+    font-size:20px;
+    color:#8D7CE2;
     
 }
