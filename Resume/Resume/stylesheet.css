@@ -14,7 +14,7 @@ h2{
 
 #right {
     word-spacing:2px;
-   
+    text-align:center;
    
 
 }
@@ -35,8 +35,11 @@ h2{
     background-color:#9BCDE2;
     border: 10px solid #9BCDE2;
     border-radius: 10px;
-  position:static;
+    width:550px;
+    height:260px;
+    position:static;
     color:#3E54E2;
+   
     
 }
 
@@ -67,7 +70,7 @@ ul{
     color:#3E54E2;
 }
 div:hover{
-    font-size:20px;
+    font-size:18px;
     color:#8D7CE2;
     
 }
